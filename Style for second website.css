@@ -1,0 +1,25 @@
+h1 {
+    color:cornflowerblue ; 
+    text-align: center;
+}
+h2 {
+    color:white ;
+    text-align:center;
+}
+button {
+    background-color:burlywood; /* black */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 12px;
+  }
+  body {
+    background-color:black;
+  }
+  img{
+    position:center; 
+  }
